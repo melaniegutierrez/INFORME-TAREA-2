@@ -2,16 +2,11 @@
 
 ### 1. OBJETIVOS
 
-JKSDBFERUFHFURIEFKDJBDJSJKSHFUGERJDJHF
+Explicar la relación entre corriente voltaje y resistencia además de su conexión de la energía y potencia de un circuito, mediante la comprensión teórica en cuadros mentales y resolución de ejercicios sobre la ley de ohm y ley de watt, para el estudio y medición de circuitos eléctricos.
 
 **OBJETIVOS ESPECIFICOS**
 
-FDGF
-
-DGRTEY
-
-SRTGTTHjhdfhfhh
-cjjfdhg djhgjdhg dfher jrehgber gr gerg j jar ehtr h g afjhrjeg eifnjdbv fhweigr
+Aplicar el formulario de leyes de Ohm y Watt 
 
 ### 2. MARCO TEÓRICO (RESUMEN)
 
