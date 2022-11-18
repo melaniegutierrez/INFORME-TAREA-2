@@ -226,3 +226,9 @@ Se puede concluir que conocer la ley de ohm es muy importante para un estudiante
 La potencia y la eficiencia que puede tener una fuente nos ayudara a manejar de mejor manera la cantidad de energia y electricidad con la que estamos trabajndo, ademas de aprovecharla de mejor manera para cuidar el circuito de posibles sobrecalentamientos y daños irreversibles en los elementos del circuito.
 
 ### 6. BIBLIOGRAFÍA
+
+Fluke. (2016, October 31). ¿Qué es la ley de Ohm? Fluke.com. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
+
+‌admin. (2020, August). Potencia eléctrica y energía, ¿en qué se diferencian? Blog Atlas Energía.; Atlas Energía. https://atlas-energia.com/blog/potencia-energia-diferencias/#:~:text=La%20potencia%20el%C3%A9ctrica%20es%20un,el%20usuario%20con%20sus%20electrodom%C3%A9sticos.
+
+‌
