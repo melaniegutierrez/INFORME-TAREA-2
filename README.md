@@ -217,7 +217,7 @@ Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V
 
 ### 4. VIDEO
 
-Link: 
+Link: https://youtu.be/e3hs-wkp2jw
 
 ### 5. CONCLUSIONES
 
